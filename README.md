@@ -1,9 +1,5 @@
 ## Retail Demand Forecasting & Agentic AI Design Workflow
 
-## Overview
-
-This repository contains my submission for the Merchmix Data Scientist Technical Assignment.
-
 The project combines four-week sales forecasting with an agent-based generative AI workflow. The forecasting stage identifies three promising existing style-colour groups, and the generative stage creates one new garment concept inspired by each selected source style.
 
 ## Solution Summary
