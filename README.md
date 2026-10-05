@@ -1,7 +1,4 @@
-# Merchmix Technical Assignment
-
-**Candidate:** Upashana Dutta  
-**Role:** Data Scientist
+**Retail Demand Forecasting & Agentic AI Design Workflow**
 
 ## Overview
 
